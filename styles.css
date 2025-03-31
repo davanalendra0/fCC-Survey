@@ -1,0 +1,100 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+    background-color: #9a9ab3;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+h1, p {
+    text-align: center;
+    color: white;
+  }
+
+h1, p, label {
+    color: white; /* Pastikan semua teks terlihat di atas latar belakang gelap */
+}
+  
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    max-width: 600px;
+    background: rgba(27, 27, 50, 0.9);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    color: white;
+}
+  
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+  
+label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+  
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+  
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+    background-color: #eeeeee;
+    color: black;
+}
+  
+textarea {
+    resize: vertical;
+    height: 120px;
+}
+  
+input[type="radio"],
+input[type="checkbox"] {
+    width: auto;
+    margin-right: 10px;
+}
+  
+input[type="submit"] {
+    background-color: #37af65;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background 0.3s;
+}
+  
+input[type="submit"]:hover {
+    background-color: #2e8b57;
+}
+  
+.inline {
+    display: inline;
+    margin-right: 10px;
+}  
