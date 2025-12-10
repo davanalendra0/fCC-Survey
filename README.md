@@ -13,7 +13,7 @@
 <br>
 <h2>⚙️ Teknologi yang Digunakan:</h2>
 <ul>
-<li>FrontEnd: Dasar-dasar pembangunan struktur dan logika antarmuka web. Menggunakan HTML, CSS, JS.</li>
+<li>FrontEnd: Dasar-dasar pembangunan struktur antarmuka web. Menggunakan HTML, CSS.</li>
 <li>Deployment: Platform hosting yang digunakan untuk penerapan cepat dan integrasi Git. Menggunakan Vercel.</li>
 </ul>
 <br>
