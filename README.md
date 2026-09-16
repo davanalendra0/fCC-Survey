@@ -1,5 +1,5 @@
 <h2>🎓 Informasi Proyek:</h2>
-<p>Proyek ini dikembangkan untuk memenuhi persyaratan proyek responsive web design dari freeCodeCamp*, berfokus pada penguasaan elemen formulir HTML5 dan desain responsif menggunakan CSS.</p>
+<p>Proyek ini dikembangkan untuk memenuhi persyaratan proyek responsive web design dari freeCodeCamp, berfokus pada penguasaan elemen formulir HTML5 dan desain responsif menggunakan CSS.</p>
 <br>
 <h2>🚀 Fitur dan Bagian Utama:</h2>
 <ul>
